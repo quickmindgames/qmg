@@ -1,0 +1,105 @@
+**Privacy Policy – QuickMind Sudoku**
+
+Last updated: March 20, 2026
+
+QuickMind Games built the QuickMind Sudoku app as a free app. This Service is provided by QuickMind Games at no cost and is intended for use as is.
+
+This Privacy Policy explains how we collect, use, and safeguard information when you use our app.
+
+---
+
+### 1. Information We Collect
+
+We do **not collect any personally identifiable information (PII)** such as your name, email address, or contact details.
+
+However, we may collect **non-personal and anonymous information** through trusted third-party services to improve the app experience:
+
+**Firebase Analytics**
+We use Firebase Analytics to collect anonymous usage data such as:
+
+* Game progress and interactions
+* Features used
+* Device type and OS version
+* General gameplay behavior
+
+This helps us understand how users interact with the app and improve gameplay.
+
+**Firebase Crashlytics**
+We use Firebase Crashlytics to collect crash reports and diagnostic information.
+This data helps us detect and fix bugs, ensuring a stable and smooth experience.
+
+**Firebase Remote Config**
+We use Firebase Remote Config to dynamically adjust game settings such as:
+
+* Difficulty levels
+* Hint behavior
+* Feature availability
+
+This allows us to improve gameplay without requiring app updates.
+
+---
+
+### 2. How We Use Information
+
+The collected information is used to:
+
+* Improve game design and user experience
+* Analyze gameplay trends
+* Detect and fix crashes or bugs
+* Optimize performance across devices
+* Adjust game difficulty and features dynamically
+
+We do **not sell, trade, or share your data** for advertising or marketing purposes.
+
+---
+
+### 3. Third-Party Services
+
+The app uses the following third-party services:
+
+* Google Firebase (Analytics, Crashlytics, Remote Config)
+
+These services may collect and process data according to their own privacy policies:
+https://firebase.google.com/support/privacy
+
+---
+
+### 4. Data Security
+
+We value your trust in using our app.
+All collected data is processed securely by Google Firebase, and access is restricted to authorized personnel only.
+
+---
+
+### 5. Children’s Privacy
+
+QuickMind Sudoku is intended for a **general audience (13+)**.
+
+We do not knowingly collect personal information from children under the age of 13.
+If you believe that a child has provided personal information, please contact us and we will promptly remove such data.
+
+---
+
+### 6. Your Choices
+
+You can limit data collection by:
+
+* Disabling analytics in your device settings (where available)
+* Restricting app permissions
+* Contacting us for assistance
+
+---
+
+### 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be reflected on this page with an updated revision date.
+
+---
+
+### 8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, you can contact us:
+
+**QuickMind Games**
+Email: [quickmindgames.dev@gmail.com](mailto:quickmindgames.dev@gmail.com)
